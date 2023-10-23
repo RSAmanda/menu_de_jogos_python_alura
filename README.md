@@ -17,8 +17,8 @@ Com isso foi desenvolvidas habilidades relacionados à:
 * Geração de números aleatórios;
 * Modos de iteração;
 * Construção e utilização de funções;
-* Manipulação de <i>string<\i>;
-* <i>List<\i>, <i>tupla<\i> e <i>dictionary<\i>;
-* <i>List Comprehension<\i>;
+* Manipulação de string;
+* List, tupla e dictionary;
+* List Comprehension;
 * Criação, leitura e escrita de arquivos;
 * Organização de código e boas práticas na programação.
